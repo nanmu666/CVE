@@ -1,2 +1,2 @@
 # CVE
-Tenda A15 V15.13.07.13
+Tenda
