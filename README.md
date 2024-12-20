@@ -11,7 +11,7 @@ Vulnerability description: Tengda router A15 V15.13.07.13 has a buffer overflow 
 
 Vulnerability Analysis Process:
 Router Firmware Download:https://www.tendacn.com/download/detail-3187.html
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/943995f7-1f9f-465c-9592-bdaa3469b4f0)
 
 The vulnerability occurs in the formSetNetworkR function
 ![alt text](image-1.png)
